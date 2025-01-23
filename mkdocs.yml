@@ -1,7 +1,10 @@
-site_name: My Docs
+site_name: Stefania 
 site_url: https://mydomain.org/mysite
 
 theme:
+  palette:
+    scheme: default
+    primary: teal
   name: material
   features:
     - navigation.instant
@@ -25,7 +28,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Contact: contact.md
-  - About Me: about/about.md
-  - Childhood: about/childhood.md
+  - Documentazione:
+     - docum/30gen/30gen.md
+     - docum/31gen/31gen.md
   - Tags: tags.md

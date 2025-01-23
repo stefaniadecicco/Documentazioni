@@ -1,0 +1,31 @@
+site_name: My Docs
+site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+
+nav:
+  - Home: index.md
+  - Contact: contact.md
+  - About Me: about/about.md
+  - Childhood: about/childhood.md
+  - Tags: tags.md

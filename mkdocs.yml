@@ -20,15 +20,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-
-plugins:
-  - search
-  - tags:
-      tags_file: tags.md
-
 nav:
   - Home: index.md
   - Documentazione:
-     - docum/30gen/30gen.md
-     - docum/31gen/31gen.md
-  - Tags: tags.md
+     - docum/Garibaldi/Garibaldi.md

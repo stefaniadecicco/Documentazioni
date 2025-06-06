@@ -1,4 +1,4 @@
-# Documentazione Garibaldi
+# Garibaldi
 Oggi Piazza Garibaldi è uno dei punti più caotici e dinamici di Napoli, frequentato ogni giorno da migliaia di persone. La presenza della stazione Napoli Centrale, che collega la città con tantissime destinazioni, la rende fondamentale non solo per i trasporti, ma anche per la vita quotidiana della città.
 
 Ma non è sempre stata come la vediamo ora. Un tempo, in quell’area non c’erano né piazze ampie né stazioni moderne. Solo successivamente venne costruito un grande edificio ferroviario lungo l’attuale corso Garibaldi, e intorno ad esso la piazza cominciò a prendere forma. Il suo nome originario era diverso, ma venne cambiato per ricordare uno dei protagonisti dell’Unità d’Italia.

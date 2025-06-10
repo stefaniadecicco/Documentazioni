@@ -1,0 +1,8 @@
+# Segni della piazza
+Nella giornata del 5 dicembre, il nostro gruppo di lavoro si è recato presso Piazza Garibaldi per effettuare nuovamente un'esplorazione e osservazione diretta dell’ambiente urbano circostante. 
+L’obiettivo principale della nostro sopralluogo era quello di individuare e analizzare le forme di espressione artistica presenti, in particolare quelle legate all'arte urbana e ai graffiti che caratterizzano l’area.
+Durante il nostro giro di perlustrazione, abbiamo prestato particolare attenzione ai muri, alle serrande, ai sottopassi e a tutte quelle superfici che spesso diventano “tele” per artisti anonimi o gruppi che si esprimono attraverso immagini, simboli e parole. Alcune opere risultano immediatamente riconoscibili come espressioni artistiche, mentre altre si collocano sul confine tra arte e atto di vandalismo, generando un interessante dibattito sull’uso dello spazio pubblico e sulla libertà espressiva.
+Il nostro intento non era quello di giudicare o etichettare questi interventi, ma piuttosto di interpretarli come manifestazioni spontanee di comunicazione. Anche nelle scritte realizzate con bombolette spray, talvolta rapide e apparentemente disordinate, si possono cogliere riflessioni legate a temi sociali, politici o culturali. 
+In particolare, abbiamo notato la ricorrenza di frasi, simboli e parole che evocano il concetto di cambiamento, segno di una volontà diffusa di trasformazione, ribellione o speranza.
+Questa esperienza sul campo ci ha permesso non solo di osservare da vicino il fenomeno della street art in uno degli snodi più vivaci e complessi della città, ma anche di raccogliere spunti per riflettere sul ruolo che questi linguaggi visivi giocano nella narrazione urbana contemporanea.
+![gari](Garibaldii.jpg)
